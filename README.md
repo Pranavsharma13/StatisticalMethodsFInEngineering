@@ -1,1 +1,1 @@
-# StatisticalMethodsFInEngineering
+# StatisticalMethodsInEngineering
